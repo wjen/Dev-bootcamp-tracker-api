@@ -7,7 +7,7 @@
     "start": "NODE_ENV=production node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
+  "author": "Wen Jen",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
