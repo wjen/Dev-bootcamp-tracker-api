@@ -1,5 +1,5 @@
 const ErrorResponse = require("../utils/errorResponse.js");
-const asyncHandler = require("../middleware/aysnc");
+const asyncHandler = require("../middleware/async");
 const User = require("../models/User");
 
 // @desc Get all users
